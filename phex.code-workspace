@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "phex-api",
+			"path": "./appliance/api"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+	}
+}
